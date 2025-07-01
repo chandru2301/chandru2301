@@ -1,9 +1,9 @@
-![Profile views](https://komarev.com/ghpvc/?username=chandru2301&style=flat&color=green)
+
 
 # 👋 Hi, I'm Chandru — Developer | Innovator | AI Builder
 
 Welcome to my GitHub profile! I'm passionate about building **intelligent platforms**, integrating **AI assistants**, and delivering **full-stack solutions** that merge practicality with cutting-edge technology.
-
+![Profile views](https://komarev.com/ghpvc/?username=chandru2301&style=flat&color=green)
 ---
 
 ## 🚀 What I Do
