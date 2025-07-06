@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandru2301&style=flat&color=green" alt="Profile views">
+<img src="https://img.shields.io/badge/Profile%20views-123-black?style=flat&labelColor=white&color=white" alt="Profile views">
+
 </div>
 
 ## Who Am I?
