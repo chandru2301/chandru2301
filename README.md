@@ -57,25 +57,17 @@ I'm passionate about building **intelligent platforms**, integrating **AI assist
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
-  <table>
+  <table style="background-color: rgba(240, 240, 240, 0.8); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <tr>
-      <td align="center">
-        <strong>353</strong><br>
-        Total Contributions<br>
-        <small>last 365 days</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&count_private=true&theme=default&bg_color=f5f5f7&hide_border=true" alt="GitHub Stats" />
       </td>
-      <td align="center">
-        <strong>3</strong><br>
-        Weekly Streak<br>
-        <small>of commits</small>
-      </td>
-      <td align="center">
-        <strong>14</strong><br>
-        Popular Repos<br>
-        <small>with stars</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&background=f5f5f7&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
