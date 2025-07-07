@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Profile%20views-123-black?style=flat&labelColor=white&color=white" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=chandru2301&label=Profile%20views&color=000000" alt="Profile views" style="background-color: white; padding: 2px 6px; border-radius: 4px;">
 
 </div>
 
