@@ -1,9 +1,8 @@
 # <div align="center">🚀 CHANDRU V</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Innovation+Seeker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Builder;Learning+to+do+kickflips+with+computers+🛹;&fade=true&fadeOut=true" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/DEVELOPER-333333?style=for-the-badge" alt="DEVELOPER">
   <img src="https://img.shields.io/badge/INNOVATOR-1A1A1A?style=for-the-badge" alt="INNOVATOR">
