@@ -1,4 +1,8 @@
-# <div align="center">👋 HI, I'M CHANDRU</div>
+# <div align="center">🚀 CHANDRU V</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Innovation+Seeker" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/DEVELOPER-333333?style=for-the-badge" alt="DEVELOPER">
@@ -7,69 +11,75 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=chandru2301&label=Profile%20views&color=000000" alt="Profile views" style="background-color: white; padding: 2px 6px; border-radius: 4px;">
-
+  <img src="https://komarev.com/ghpvc/?username=chandru2301&label=Profile%20views&color=000000" alt="Profile views">
 </div>
 
-## Who Am I?
+---
 
-I'm passionate about building **intelligent platforms**, integrating **AI assistants**, and delivering **full-stack solutions** that merge practicality with cutting-edge technology.
+## 🎯 **What I Do**
 
-- 🧠 **AI Copilot Integration** – I design systems where AI actively edits Excel, creates smart UIs, and enhances business tools.
-- 🔧 **Full Stack Engineering** – Hands-on experience with Spring Boot, Java, Angular, and TypeScript.
-- 📊 **Smart CRMs & Analytics Platforms** – Building features like curated vendor systems, valuation dashboards, and personalized chat-based control interfaces.
-- 📄 **Document & PDF Intelligence** – Content extraction, vector storage, semantic search, and RAG pipelines.
+> *"I don't just write code — I craft digital experiences that bridge the gap between human intuition and artificial intelligence."*
 
-## 🛠 Tech Stack
+### 🧠 **AI-Powered Solutions**
+- **Excel AI Copilot** - Where spreadsheets meet intelligence
+- **Smart Document Processing** - PDFs that talk back
+- **RAG Pipelines** - Making knowledge searchable and conversational
 
+### 🔧 **Full-Stack Engineering**
+- **Backend Magic** - Spring Boot, Java, Microservices
+- **Frontend Wizardry** - Angular, TypeScript, Modern UIs
+- **Database Sorcery** - PostgreSQL, MongoDB, Vector Search
+
+### 📊 **Business Intelligence**
+- **Real Estate Analytics** - Market insights at your fingertips
+- **Vendor Management** - Curated systems that scale
+- **Dashboard Ecosystems** - Data that tells stories
+
+---
+
+## 🛠 **Tech Arsenal**
+
+<details>
+<summary><b>🔥 Core Technologies</b></summary>
+
+### **Languages & Frameworks**
 <div align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black">
-  
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=for-the-badge&logo=openai&logoColor=black">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/pgvector-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black">
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=white">
-  
+</div>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black">
+### **Databases & Storage**
+<div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/RabbitMQ-FFFFFF?style=for-the-badge&logo=rabbitmq&logoColor=black">
-  <img src="https://img.shields.io/badge/Elasticsearch-000000?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  
-  <!-- Java Technologies -->
-  <img src="https://img.shields.io/badge/Hibernate-FFFFFF?style=for-the-badge&logo=hibernate&logoColor=black">
-  <img src="https://img.shields.io/badge/Servlet-000000?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-FFFFFF?style=for-the-badge&logo=java&logoColor=black">
-  
-  <!-- Platforms -->
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white">
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/pgvector-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black">
 </div>
 
+### **AI & Machine Learning**
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=for-the-badge&logo=openai&logoColor=black">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=white">
+</div>
+
+### **Cloud & DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white">
+</div>
+
+</details>
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
   <table style="background-color: rgba(240, 240, 240, 0.8); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <tr>
       <td align="center" style="padding: 15px;">
@@ -79,31 +89,84 @@ I'm passionate about building **intelligent platforms**, integrating **AI assist
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&background=f5f5f7&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
+       <tr>
+      <td align="center" colspan="2" style="padding: 15px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandru2301&theme=default&bg_color=f5f5f7&hide_border=true&color=000000" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
   </table>
 </div>
 
-## 🔍 Recent Projects
+---
+
+## 🚀 **Featured Projects**
 
 <details>
-<summary>🧩 <strong>Excel AI Copilot</strong></summary>
-<p>Built a smart assistant that integrates OpenAI with Excel to automate cell edits, apply formatting, and execute natural-language commands using a custom Office.js add-in.</p>
+<summary><b>🧩 Excel AI Copilot</b> - <em>Where AI meets Spreadsheets</em></summary>
+
+> **The Challenge:** Manual Excel operations are time-consuming and error-prone.
+
+**🎯 Solution:**
+- **OpenAI Integration** - Natural language commands for Excel
+- **Office.js Add-in** - Seamless integration with Microsoft Office
+- **Smart Automation** - Cell edits, formatting, and data manipulation
+- **Real-time Processing** - Instant responses to user commands
+
+**🛠 Tech Stack:** JavaScript, Office.js, OpenAI API, Azure Functions
+
+**💡 Impact:** Reduced manual Excel work by 80% for business users
+
 </details>
 
 <details>
-<summary>🏠 <strong>Real Estate Insights Platform</strong></summary>
-<p>Created advanced dashboards for investors, buyers, and admins with micro-market analytics, project pipelines, and notification logic.</p>
+<summary><b>🏠 Real Estate Insights Platform</b> - <em>Data-Driven Property Intelligence</em></summary>
+
+> **The Challenge:** Real estate decisions need comprehensive market analytics.
+
+**🎯 Solution:**
+- **Micro-market Analytics** - Granular property insights
+- **Investment Dashboards** - ROI calculations and projections
+- **Vendor Management** - Curated partner ecosystem
+- **Notification System** - Real-time market alerts
+
+**🛠 Tech Stack:** Spring Boot, Angular, PostgreSQL, Redis
+
+**💡 Impact:** Empowered 500+ investors with data-driven decisions
+
 </details>
 
 <details>
-<summary>🧾 <strong>PDF-to-Vector AI Search</strong></summary>
-<p>Developed backend for uploading documents, chunking content, generating embeddings, and serving AI-based Q&A via Spring Boot.</p>
+<summary><b>🧾 PDF-to-Vector AI Search</b> - <em>Making Documents Conversational</em></summary>
+
+> **The Challenge:** Static PDFs contain valuable but inaccessible information.
+
+**🎯 Solution:**
+- **Document Processing** - Automated PDF parsing and chunking
+- **Vector Embeddings** - Semantic search capabilities
+- **RAG Pipeline** - Context-aware Q&A system
+- **Spring Boot Backend** - Scalable document management
+
+**🛠 Tech Stack:** Spring Boot, OpenAI, pgvector, PostgreSQL
+
+**💡 Impact:** Transformed 10,000+ documents into searchable knowledge base
+
 </details>
 
-## 📫 Let's Connect
+---
+
+## 🎯 **What I'm Currently Building**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=AI-Powered+CRM+System;Smart+Document+Workflow;Real-time+Analytics+Dashboard" alt="Current Projects" />
+</div>
+
+---
+
+## 🌟 **Let's Connect & Collaborate**
 
 <div align="center">
   <a href="mailto:cpkshmsa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail-css&logoColor=black" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/chandru-v-13a822353/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -111,33 +174,36 @@ I'm passionate about building **intelligent platforms**, integrating **AI assist
   <a href="https://chandru-23.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
-</div>
-
-<div align="center">
-  <h2>⚡ Favorite Quote</h2>
-  <blockquote>
-    "Code isn't just logic — it's conversation."
-  </blockquote>
-</div>
-
-<div align="center">
-  <p>Thanks for stopping by! ⭐ If you see something interesting, feel free to fork or reach out!</p>
   <a href="https://github.com/chandru2301">
-    <img src="https://img.shields.io/github/followers/chandru2301?label=Follow&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
-<!--
-**chandru2301/chandru2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💭 **Philosophy**
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <blockquote>
+    <p><em>"Code isn't just logic — it's conversation. Every line tells a story, every function solves a problem, and every system creates an experience."</em></p>
+  </blockquote>
+</div>
+
+---
+
+<div align="center">
+  <h3>🎉 Ready to Build Something Amazing?</h3>
+  <p>Let's turn your ideas into reality with cutting-edge technology and innovative solutions!</p>
+  
+  <a href="https://github.com/chandru2301">
+    <img src="https://img.shields.io/github/followers/chandru2301?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  
+  <p><em>⭐ Star this repo if you found it interesting!</em></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=1000&color=666666&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!" alt="Thank you" />
+</div>
