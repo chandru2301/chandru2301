@@ -142,12 +142,32 @@
 
 </details>
 
+
+<details>
+<summary><b>🚀 Arceon</b> - <em>Modern GitHub Dashboard for Team Collaboration</em> 🔄 <em>In Development</em></summary>
+
+> **The Challenge:** Managing multiple repositories and team workflows across GitHub can be complex and time-consuming.
+
+**🎯 Solution:**
+- **Unified Dashboard** - Centralized view of all repositories, pull requests, and team activities
+- **Real-time Collaboration** - Live updates on PR status, code reviews, and team progress
+- **Smart Notifications** - Intelligent alerts for important events and deadlines
+- **Analytics Dashboard** - Team productivity metrics and repository insights
+
+**🛠 Tech Stack:** React, TypeScript, Spring Boot, RESTful APIs, Modern UI/UX
+
+**💡 Impact:** Streamlined team collaboration and improved development workflow efficiency
+
+**🌐 Live Demo:** [arceon.netlify.app](https://arceon.netlify.app)
+
+</details>
+
 ---
 
 ## 🎯 **What I'm Currently Building**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=AI-Powered+CRM+System;Smart+Document+Workflow;Real-time+Analytics+Dashboard" alt="Current Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=AI-Powered+CRM+System;Smart+Document+Workflow;Real-time+Analytics+Dashboard" alt="Current Projects" />
 </div>
 
 ---
