@@ -1,7 +1,7 @@
 # <div align="center">🚀 CHANDRU V</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Builder;Learning+to+do+kickflips+with+computers+🛹;&fade=true&fadeOut=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Builder;Learning+to+do+kickflips+with+computers+🛹;&fade=true&fadeOut=true" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/DEVELOPER-333333?style=for-the-badge" alt="DEVELOPER">
@@ -15,7 +15,15 @@
 
 ---
 
-> *"I don't just write code — I craft digital experiences that bridge the gap between human intuition and artificial intelligence."*
+## 🎯 **About Me**
+
+> *"Passionate Software Developer with 1 year of experience crafting full-stack solutions that bridge technology and business needs."*
+
+**🔧 Full-Stack Development** - Building robust web applications using Java Spring Boot backend with Angular frontend, implementing RESTful APIs and managing MySQL databases.
+
+**🤝 Team Collaboration** - Working with cross-functional teams at Softtwig Technology to deliver high-quality software solutions that exceed client expectations.
+
+**🚀 Continuous Learning** - Embracing new technologies and best practices to stay at the forefront of modern software development.
 
 ---
 
