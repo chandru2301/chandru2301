@@ -16,24 +16,7 @@
 
 ---
 
-## 🎯 **What I Do**
-
 > *"I don't just write code — I craft digital experiences that bridge the gap between human intuition and artificial intelligence."*
-
-### 🧠 **AI-Powered Solutions**
-- **Excel AI Copilot** - Where spreadsheets meet intelligence
-- **Smart Document Processing** - PDFs that talk back
-- **RAG Pipelines** - Making knowledge searchable and conversational
-
-### 🔧 **Full-Stack Engineering**
-- **Backend Magic** - Spring Boot, Java, Microservices
-- **Frontend Wizardry** - Angular, TypeScript, Modern UIs
-- **Database Sorcery** - PostgreSQL, MongoDB, Vector Search
-
-### 📊 **Business Intelligence**
-- **Real Estate Analytics** - Market insights at your fingertips
-- **Vendor Management** - Curated systems that scale
-- **Dashboard Ecosystems** - Data that tells stories
 
 ---
 
