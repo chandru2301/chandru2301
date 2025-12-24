@@ -1,12 +1,12 @@
 # <div align="center">🚀 CHANDRU V</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Builder;Learning+to+do+kickflips+with+computers+🛹;&fade=true&fadeOut=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Full-Stack+Engineer;AI+Systems+Builder;Building+Code+Intelligence+Platforms;&fade=true&fadeOut=true" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/DEVELOPER-333333?style=for-the-badge" alt="DEVELOPER">
-  <img src="https://img.shields.io/badge/INNOVATOR-1A1A1A?style=for-the-badge" alt="INNOVATOR">
-  <img src="https://img.shields.io/badge/AI_BUILDER-0D1117?style=for-the-badge" alt="AI BUILDER">
+  <img src="https://img.shields.io/badge/FULL_STACK_ENGINEER-333333?style=for-the-badge" alt="FULL STACK ENGINEER">
+  <img src="https://img.shields.io/badge/AI_SYSTEMS_BUILDER-1A1A1A?style=for-the-badge" alt="AI SYSTEMS BUILDER">
+  <img src="https://img.shields.io/badge/CODE_INTELLIGENCE-0D1117?style=for-the-badge" alt="CODE INTELLIGENCE">
 </div>
 
 <div align="center">
@@ -17,22 +17,36 @@
 
 ## 🎯 **About Me**
 
-> *"Passionate Software Developer with 1 year of experience crafting full-stack solutions that bridge technology and business needs."*
+I build full-stack systems and AI-powered developer tools that deeply understand code — not just generate it.
 
-**🔧 Full-Stack Development** - Building robust web applications using Java Spring Boot backend with Angular frontend, implementing RESTful APIs and managing MySQL databases.
+I'm a **Full-Stack Engineer & AI Systems Builder** with hands-on experience designing and shipping production-grade web applications and AI infrastructure.
 
-**🤝 Team Collaboration** - Working with cross-functional teams at Softtwig Technology to deliver high-quality software solutions that exceed client expectations.
+**What I actually do well 👇**
 
-**🚀 Continuous Learning** - Embracing new technologies and best practices to stay at the forefront of modern software development.
+**🔧 Full-Stack Development**
+- Spring Boot backends with clean domain design
+- Angular frontends with real-world UX needs
+- REST APIs, authentication, dashboards, workflows
+
+**🧠 AI & Code Intelligence**
+- Built a Cursor-like AI IDE from scratch
+- Code indexing, embeddings, RAG pipelines
+- Deterministic AI responses (not prompt hacks)
+- Auto-patching, risk classification, event-based parsing
+
+**🎯 Systems Thinking**
+- Focus on correctness, traceability, confidence & risk
+- Designing AI that developers can trust
+
+Currently working at **Softtwig Technology**, building real products used by real users.
 
 ---
 
-## 🛠 **Tech Arsenal**
+## 🛠 **Tech Stack (What I actually use)**
 
 <details>
-<summary><b>🔥 Core Technologies</b></summary>
+<summary><b>🔥 Languages & Frameworks</b></summary>
 
-### **Languages & Frameworks**
 <div align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black">
@@ -41,26 +55,45 @@
   <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=black">
 </div>
 
-### **Databases & Storage**
+- REST APIs, JWT Auth, Modular Architecture
+
+</details>
+
+<details>
+<summary><b>💾 Databases & Search</b></summary>
+
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/pgvector-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/pgvector-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black">
 </div>
 
-### **AI & Machine Learning**
+</details>
+
+<details>
+<summary><b>🤖 AI & Intelligence</b></summary>
+
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=for-the-badge&logo=openai&logoColor=black">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=white">
 </div>
 
-### **Cloud & DevOps**
+- Embedding pipelines (1024 / 1536 / 4096)
+- RAG, chunking, re-ranking
+- Streaming responses & structured output parsing
+
+</details>
+
+<details>
+<summary><b>☁️ Dev & Infra</b></summary>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 </details>
@@ -89,90 +122,63 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Featured Work**
 
 <details>
-<summary><b>🧩 Excel AI Copilot</b> - <em>Where AI meets Spreadsheets</em></summary>
+<summary><b>🧠 AI Codebase Intelligence (Cursor-like IDE)</b></summary>
 
-> **The Challenge:** Manual Excel operations are time-consuming and error-prone.
+**What I built:**
+- Workspace indexer (multi-folder)
+- Code → embeddings → semantic retrieval
+- Real-time streaming JSON detection
+- Deterministic explanation + confidence + risk
+- Auto-patching directly inside the editor
 
-**🎯 Solution:**
-- **OpenAI Integration** - Natural language commands for Excel
-- **Office.js Add-in** - Seamless integration with Microsoft Office
-- **Smart Automation** - Cell edits, formatting, and data manipulation
-- **Real-time Processing** - Instant responses to user commands
+**Why it matters:**
 
-**🛠 Tech Stack:** JavaScript, Office.js, OpenAI API, Azure Functions
+> This is not a chatbot — it's an AI engineer that understands your codebase.
 
-**💡 Impact:** Reduced manual Excel work by 80% for business users
+**🛠 Tech:** TypeScript, Spring Boot, PostgreSQL, pgvector, OpenAI/OpenRouter
 
 </details>
 
 <details>
-<summary><b>🏠 Real Estate Insights Platform</b> - <em>Data-Driven Property Intelligence</em></summary>
+<summary><b>📄 PDF → Vector → AI Search</b></summary>
 
-> **The Challenge:** Real estate decisions need comprehensive market analytics.
+- PDF parsing & chunking
+- Vector embeddings with pgvector
+- RAG-based question answering
+- Spring Boot document APIs
 
-**🎯 Solution:**
-- **Micro-market Analytics** - Granular property insights
-- **Investment Dashboards** - ROI calculations and projections
-- **Vendor Management** - Curated partner ecosystem
-- **Notification System** - Real-time market alerts
-
-**🛠 Tech Stack:** Spring Boot, Angular, PostgreSQL, Redis
-
-**💡 Impact:** Empowered 500+ investors with data-driven decisions
-
-</details>
-
-<details>
-<summary><b>🧾 PDF-to-Vector AI Search</b> - <em>Making Documents Conversational</em></summary>
-
-> **The Challenge:** Static PDFs contain valuable but inaccessible information.
-
-**🎯 Solution:**
-- **Document Processing** - Automated PDF parsing and chunking
-- **Vector Embeddings** - Semantic search capabilities
-- **RAG Pipeline** - Context-aware Q&A system
-- **Spring Boot Backend** - Scalable document management
+Used for turning static documents into searchable knowledge systems.
 
 **🛠 Tech Stack:** Spring Boot, OpenAI, pgvector, PostgreSQL
 
-**💡 Impact:** Transformed 10,000+ documents into searchable knowledge base
-
 </details>
 
-
 <details>
-<summary><b>🚀 Arceon</b> - <em>Modern GitHub Dashboard for Team Collaboration</em> 🔄 <em>In Development</em></summary>
+<summary><b>🏠 Real Estate Platform (Production)</b></summary>
 
-> **The Challenge:** Managing multiple repositories and team workflows across GitHub can be complex and time-consuming.
+- Role-based system (Admin, Builder, Agent, Buyer)
+- Dashboards, workflows, notifications
+- Spring Boot + Angular
+- PostgreSQL + Redis
 
-**🎯 Solution:**
-- **Unified Dashboard** - Centralized view of all repositories, pull requests, and team activities
-- **Real-time Collaboration** - Live updates on PR status, code reviews, and team progress
-- **Smart Notifications** - Intelligent alerts for important events and deadlines
-- **Analytics Dashboard** - Team productivity metrics and repository insights
-
-**🛠 Tech Stack:** React, TypeScript, Spring Boot, RESTful APIs, Modern UI/UX
-
-**💡 Impact:** Streamlined team collaboration and improved development workflow efficiency
-
-**🌐 Live Demo:** [arceon.netlify.app](https://arceon.netlify.app)
+**🛠 Tech Stack:** Spring Boot, Angular, PostgreSQL, Redis
 
 </details>
 
 ---
 
-## 🎯 **What I'm Currently Building**
+## 🔨 **What I'm Building Now**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=AI-Powered+CRM+System;Smart+Document+Workflow;Real-time+Analytics+Dashboard" alt="Current Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=cccccc&center=true&vCenter=true&width=600&lines=AI+IDE+with+Auto+Patching;Code+Intelligence+Platform;Developer+Productivity+Tools" alt="Current Projects" />
 </div>
 
 ---
 
-## 🌟 **Let's Connect & Collaborate**
+## 🌐 **Connect**
 
 <div align="center">
   <a href="mailto:cpkshmsa@gmail.com">
@@ -181,11 +187,8 @@
   <a href="https://www.linkedin.com/in/chandru-v-13a822353/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://chandru-23.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
   <a href="https://github.com/chandru2301">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </div>
 
@@ -195,25 +198,8 @@
 
 <div align="center">
   <blockquote>
-    <p><em>"Code isn't just logic — it's conversation. Every line tells a story, every function solves a problem, and every system creates an experience."</em></p>
+    <p><em>"Good AI is not creative — it is predictable, explainable, and safe to trust."</em></p>
+    <p><em>That's the kind of systems I build.</em></p>
   </blockquote>
 </div>
 
----
-
-<div align="center">
-  <h3>🎉 Ready to Build Something Amazing?</h3>
-  <p>Let's turn your ideas into reality with cutting-edge technology and innovative solutions!</p>
-  
-  <a href="https://github.com/chandru2301">
-    <img src="https://img.shields.io/github/followers/chandru2301?label=Follow&style=social" alt="GitHub followers">
-  </a>
-  
-  <p><em>⭐ Star this repo if you found it interesting!</em></p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=1000&color=666666&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!" alt="Thank you" />
-</div>
