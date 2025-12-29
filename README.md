@@ -106,15 +106,15 @@ Currently working at **Softtwig Technology**, building real products used by rea
   <table style="background-color: rgba(240, 240, 240, 0.8); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <tr>
       <td align="center" style="padding: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=chandruSofttwig&show_icons=true&count_private=true&theme=default&bg_color=f5f5f7&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&count_private=true&theme=default&bg_color=f5f5f7&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="padding: 15px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandruSofttwig&background=f5f5f7&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&background=f5f5f7&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
        <tr>
       <td align="center" colspan="2" style="padding: 15px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandruSofttwig&theme=default&bg_color=f5f5f7&hide_border=true&color=000000" alt="GitHub Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandru2301&theme=default&bg_color=f5f5f7&hide_border=true&color=000000" alt="GitHub Activity Graph" />
       </td>
     </tr>
   </table>
