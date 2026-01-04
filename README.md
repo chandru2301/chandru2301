@@ -18,191 +18,147 @@
 
 ---
 
-## 🎯 **About Me**
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Brain.svg" width="22"/> ABOUT ME
 
-I build full-stack systems and AI-powered developer tools that deeply understand code — not just generate it.
+I design **production-grade full-stack systems** and **AI developer tools** that *understand codebases*, not just autocomplete lines.
 
-I'm a **Full-Stack Engineer & AI Systems Builder** with hands-on experience designing and shipping production-grade web applications and AI infrastructure.
+I’m a **Full-Stack Engineer & AI Systems Builder** focused on:
+- deterministic AI
+- traceable reasoning
+- correctness over vibes
 
-**What I actually do well 👇**
-
-**🔧 Full-Stack Development**
-- Spring Boot backends with clean domain design
-- Angular frontends with real-world UX needs
-- REST APIs, authentication, dashboards, workflows
-
-**🧠 AI & Code Intelligence**
-- Built a Cursor-like AI IDE from scratch
-- Code indexing, embeddings, RAG pipelines
-- Deterministic AI responses (not prompt hacks)
-- Auto-patching, risk classification, event-based parsing
-
-**🎯 Systems Thinking**
-- Focus on correctness, traceability, confidence & risk
-- Designing AI that developers can trust
-
-Currently working at **Softtwig Technology**, building real products used by real users.
+Currently building real products at **Softtwig Technology**, used by real users in production.
 
 ---
 
-## 🛠 **Tech Stack (What I actually use)**
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Settings.svg" width="22"/> WHAT I DO WELL
+
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" width="20"/> Full-Stack Engineering
+- Spring Boot backends with clean domain boundaries  
+- Angular frontends built for real UX, not demos  
+- Auth, workflows, dashboards, REST APIs  
+
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenAI.svg" width="20"/> AI & Code Intelligence
+- Cursor-like AI IDE built from scratch  
+- Code indexing, embeddings, semantic retrieval  
+- Deterministic explanations (confidence + risk)  
+- Auto-patching & event-based parsing  
+
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arch.svg" width="20"/> Systems Thinking
+- Trustable AI over “creative” AI  
+- Observability, correctness, confidence scoring  
+- AI that developers can rely on in production  
+
+---
+
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Toolbox.svg" width="22"/> TECH STACK
 
 <details>
-<summary><b>🔥 Languages & Frameworks</b></summary>
+<summary><b>Languages & Frameworks</b></summary>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=black">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,spring,angular&theme=dark" />
 </div>
-
-- REST APIs, JWT Auth, Modular Architecture
-
 </details>
 
 <details>
-<summary><b>💾 Databases & Search</b></summary>
+<summary><b>Databases & Search</b></summary>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black">
-  <img src="https://img.shields.io/badge/pgvector-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black">
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </div>
 
+<p align="center"><em>pgvector · semantic search · indexing</em></p>
 </details>
 
 <details>
-<summary><b>🤖 AI & Intelligence</b></summary>
+<summary><b>AI & Intelligence</b></summary>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=for-the-badge&logo=openai&logoColor=black">
-  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
 </div>
 
-- Embedding pipelines (1024 / 1536 / 4096)
-- RAG, chunking, re-ranking
-- Streaming responses & structured output parsing
-
+- RAG pipelines  
+- Embedding strategies (1024 / 1536 / 4096)  
+- Streaming + structured outputs  
 </details>
 
 <details>
-<summary><b>☁️ Dev & Infra</b></summary>
+<summary><b>Dev & Infra</b></summary>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws&theme=dark" />
 </div>
-
 </details>
 
 ---
 
-## 📊 **GitHub Analytics**
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Graph.svg" width="22"/> GITHUB ANALYTICS
 
 <div align="center">
-  <table style="background-color: rgba(240, 240, 240, 0.8); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&count_private=true&theme=default&bg_color=f5f5f7&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&background=f5f5f7&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-       <tr>
-      <td align="center" colspan="2" style="padding: 15px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandru2301&theme=default&bg_color=f5f5f7&hide_border=true&color=000000" alt="GitHub Activity Graph" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&theme=transparent&icon_color=9D4EDD&title_color=9D4EDD&text_color=ffffff&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandru2301&theme=transparent&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&hide_border=true" />
 </div>
 
 ---
 
-## 🚀 **Featured Work**
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Code.svg" width="22"/> FEATURED WORK
 
-<details>
-<summary><b>🧠 AI Codebase Intelligence (Cursor-like IDE)</b></summary>
-
-**What I built:**
-- Workspace indexer (multi-folder)
+### 🧠 AI Codebase Intelligence Platform
+- Workspace indexing (multi-folder)
 - Code → embeddings → semantic retrieval
-- Real-time streaming JSON detection
-- Deterministic explanation + confidence + risk
-- Auto-patching directly inside the editor
+- Deterministic explanations with confidence & risk
+- Auto-patching inside the editor
 
-**Why it matters:**
+> **Not a chatbot. An AI engineer that understands your codebase.**
 
-> This is not a chatbot — it's an AI engineer that understands your codebase.
+**Tech:** TypeScript · Spring Boot · PostgreSQL · pgvector · OpenAI
 
-**🛠 Tech:** TypeScript, Spring Boot, PostgreSQL, pgvector, OpenAI/OpenRouter
+---
 
-</details>
-
-<details>
-<summary><b>📄 PDF → Vector → AI Search</b></summary>
-
+### 📄 PDF → Vector → AI Search
 - PDF parsing & chunking
-- Vector embeddings with pgvector
-- RAG-based question answering
-- Spring Boot document APIs
+- pgvector embeddings
+- RAG-based Q&A
+- Spring Boot APIs
 
-Used for turning static documents into searchable knowledge systems.
+---
 
-**🛠 Tech Stack:** Spring Boot, OpenAI, pgvector, PostgreSQL
-
-</details>
-
-<details>
-<summary><b>🏠 Real Estate Platform (Production)</b></summary>
-
-- Role-based system (Admin, Builder, Agent, Buyer)
-- Dashboards, workflows, notifications
+### 🏠 Real Estate Platform (Production)
+- Admin / Builder / Agent / Buyer roles
+- Dashboards & workflows
 - Spring Boot + Angular
 - PostgreSQL + Redis
 
-**🛠 Tech Stack:** Spring Boot, Angular, PostgreSQL, Redis
+---
 
-</details>
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rocket.svg" width="22"/> CURRENTLY BUILDING
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=9D4EDD&center=true&vCenter=true&width=700&lines=AI+IDE+with+Auto+Patching;Code+Intelligence+Platform;Developer+Productivity+Systems" />
 
 ---
 
-## 🔨 **What I'm Building Now**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=cccccc&center=true&vCenter=true&width=600&lines=AI+IDE+with+Auto+Patching;Code+Intelligence+Platform;Developer+Productivity+Tools" alt="Current Projects" />
-</div>
-
----
-
-## 🌐 **Connect**
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Link.svg" width="22"/> CONNECT
 
 <div align="center">
   <a href="mailto:cpkshmsa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=9D4EDD">
   </a>
   <a href="https://www.linkedin.com/in/chandru-v-13a822353/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=9D4EDD">
   </a>
   <a href="https://github.com/chandru2301">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=9D4EDD">
   </a>
 </div>
 
 ---
 
-## 💭 **Philosophy**
+## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Shield.svg" width="22"/> PHILOSOPHY
 
-<div align="center">
-  <blockquote>
-    <p><em>"Good AI is not creative — it is predictable, explainable, and safe to trust."</em></p>
-    <p><em>That's the kind of systems I build.</em></p>
-  </blockquote>
-</div>
+> *Good AI is not creative.*  
+> *It is predictable, explainable, and safe to trust.*  
+>  
+> **That’s the kind of systems I build.**
 
