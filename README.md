@@ -1,12 +1,15 @@
-# <div align="center">🚀 CHANDRU V</div>
+#  <div align="center">  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=9D4EDD&center=true&vCenter=true&width=900&lines=CHANDRU+V;FULL+STACK+ENGINEER;AI+SYSTEMS_BUILDER;CODE+INTELLIGENCE_ARCHITECT" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Full-Stack+Engineer;AI+Systems+Builder;Building+Code+Intelligence+Platforms;&fade=true&fadeOut=true" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/FULL_STACK_ENGINEER-000000?style=for-the-badge&logoColor=9D4EDD">
+  <img src="https://img.shields.io/badge/AI_SYSTEMS_BUILDER-0D0D0D?style=for-the-badge&logoColor=9D4EDD">
+  <img src="https://img.shields.io/badge/CODE_INTELLIGENCE-12002B?style=for-the-badge&logoColor=9D4EDD">
 </div>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/FULL_STACK_ENGINEER-333333?style=for-the-badge" alt="FULL STACK ENGINEER">
-  <img src="https://img.shields.io/badge/AI_SYSTEMS_BUILDER-1A1A1A?style=for-the-badge" alt="AI SYSTEMS BUILDER">
-  <img src="https://img.shields.io/badge/CODE_INTELLIGENCE-0D1117?style=for-the-badge" alt="CODE INTELLIGENCE">
+  <img src="https://komarev.com/ghpvc/?username=chandru2301&label=PROFILE+VIEWS&color=9D4EDD&style=flat-square">
 </div>
 
 <div align="center">
