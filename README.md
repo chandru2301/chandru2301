@@ -1,9 +1,5 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Brain.svg" width="28" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> CHANDRU V
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=FULL+STACK+ENGINEER;AI+SYSTEMS+BUILDER;CODE+INTELLIGENCE+ARCHITECT" />
-
 <div align="center">
   <img src="https://img.shields.io/badge/FULL_STACK_ENGINEER-000000?style=for-the-badge&logoColor=9D4EDD&labelColor=1a1a1a">
   <img src="https://img.shields.io/badge/AI_SYSTEMS_BUILDER-1a1a1a?style=for-the-badge&logoColor=9D4EDD&labelColor=000000">
@@ -16,28 +12,75 @@
 
 ---
 
-</div>
-
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Brain.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> ABOUT ME
+## 💻 TECH STACK & LANGUAGES
 
 <div align="center">
 
-I design **production-grade full-stack systems** and **AI developer tools** that *understand codebases*, not just autocomplete lines.
+<p align="center">
+<strong>Languages & Frameworks</strong>
+</p>
 
-I'm a **Full-Stack Engineer & AI Systems Builder** focused on:
-- 🎯 **Deterministic AI** - Predictable, reliable outcomes
-- 🔍 **Traceable Reasoning** - Clear decision paths
-- ✅ **Correctness over Vibes** - Quality first, always
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,ts,js,spring,angular,nodejs,express&theme=dark" />
+</p>
 
-Currently building real products at **Softtwig Technology**, used by real users in production.
+<br/>
+
+<p align="center">
+<strong>Databases & Tools</strong>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center">
+<strong>Cloud & DevOps</strong>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,jenkins&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center">
+<strong>AI & ML</strong>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center">
+<strong>Frontend & UI</strong>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,vue&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center">
+<strong>Backend & APIs</strong>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=springboot,graphql,nginx,apache&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Settings.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> WHAT I DO WELL
+## ⚙️ WHAT I DO WELL
 
-### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" width="20"/> Full-Stack Engineering
+### ☕ Full-Stack Engineering
 
 <div align="left">
 
@@ -47,7 +90,7 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenAI.svg" width="20"/> AI & Code Intelligence
+### 🤖 AI & Code Intelligence
 
 <div align="left">
 
@@ -58,7 +101,7 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arch.svg" width="20"/> Systems Thinking
+### 🏗️ Systems Thinking
 
 <div align="left">
 
@@ -70,7 +113,7 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Toolbox.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> TECH STACK
+## 🛠️ TECH STACK
 
 <details>
 <summary><b>🔧 Languages & Frameworks</b></summary>
@@ -116,17 +159,20 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Graph.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&theme=transparent&icon_color=9D4EDD&title_color=9D4EDD&text_color=ffffff&hide_border=true&bg_color=000000&border_color=9D4EDD" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandru2301&theme=transparent&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&hide_border=true&background=000000&border=9D4EDD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=9D4EDD&text_color=ffffff&icon_color=9D4EDD&border_color=9D4EDD"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru2301&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=9D4EDD&text_color=ffffff&border_color=9D4EDD"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&theme=dark&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD"/>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Code.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> FEATURED WORK
+## 💻 FEATURED WORK
 
 ### 🧠 AI Codebase Intelligence Platform
 
@@ -145,14 +191,14 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 ---
 
-### 📄 PDF → Vector → AI Search
+### 🛡️ Sentra — AI Safety Gate for Code
 
 <div align="left">
 
-- **PDF parsing & chunking**
-- **pgvector embeddings**
-- **RAG-based Q&A**
-- **Spring Boot APIs**
+- **Analyzes PR diffs** and classifies risk with confidence
+- **Blocks unsafe merges** in CI pipelines
+- **AI-powered code safety** with deterministic risk assessment
+- **Production-ready security** for code repositories
 
 </div>
 
@@ -171,7 +217,7 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rocket.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> CURRENTLY BUILDING
+## 🚀 CURRENTLY BUILDING
 
 <div align="center">
 
@@ -181,7 +227,7 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Link.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> CONNECT
+## 🔗 CONNECT
 
 <div align="center">
   <a href="mailto:cpkshmsa@gmail.com">
@@ -197,7 +243,7 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Shield.svg" width="24" style="filter: brightness(0) saturate(100%) invert(27%) sepia(95%) saturate(2878%) hue-rotate(258deg) brightness(94%) contrast(101%);"/> PHILOSOPHY
+## 🛡️ PHILOSOPHY
 
 <div align="center">
 
@@ -212,6 +258,6 @@ Currently building real products at **Softtwig Technology**, used by real users 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chandru2301/chandru2301/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+**Made with ❤️ and ☕**
 
 </div>
