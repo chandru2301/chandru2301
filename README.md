@@ -1,12 +1,25 @@
-<div align="center">
+# 👋 Chandru
 
-<div align="center">
-  <img src="https://img.shields.io/badge/FULL_STACK_ENGINEER-000000?style=for-the-badge&logoColor=9D4EDD&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/AI_SYSTEMS_BUILDER-1a1a1a?style=for-the-badge&logoColor=9D4EDD&labelColor=000000">
-  <img src="https://img.shields.io/badge/CODE_INTELLIGENCE-2d1b4e?style=for-the-badge&logoColor=9D4EDD&labelColor=000000">
+### Full-Stack Engineer / AI Systems Builder / Code Intelligence Developer
+
+I'm an indie full-stack developer building production-ready applications with Spring Boot and Angular. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I specialize in creating trustable AI systems that are predictable, explainable, and safe to use in production environments.
+
+<div align="left">
+  <a href="https://github.com/chandru2301?tab=followers">
+    <img src="https://img.shields.io/github/followers/chandru2301?label=FOLLOW&style=for-the-badge&color=9D4EDD&labelColor=000000">
+  </a>
+  <a href="https://github.com/chandru2301?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-26-blue?style=for-the-badge&color=9D4EDD&labelColor=000000">
+  </a>
+  <a href="https://github.com/chandru2301?tab=stars">
+    <img src="https://img.shields.io/github/stars/chandru2301?label=STARS&style=for-the-badge&color=9D4EDD&labelColor=000000">
+  </a>
+  <a href="https://github.com/chandru2301">
+    <img src="https://img.shields.io/github/forks/chandru2301?label=FORKS&style=for-the-badge&color=9D4EDD&labelColor=000000">
+  </a>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=chandru2301&label=PROFILE+VIEWS&color=9D4EDD&style=flat-square&labelColor=000000">
 </div>
 
@@ -14,66 +27,8 @@
 
 ## 💻 TECH STACK & LANGUAGES
 
-<div align="center">
-
-<p align="center">
-<strong>Languages & Frameworks</strong>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,ts,js,spring,angular,nodejs,express&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-<strong>Databases & Tools</strong>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-<strong>Cloud & DevOps</strong>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,jenkins&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-<strong>AI & ML</strong>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-<strong>Frontend & UI</strong>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,vue&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-<strong>Backend & APIs</strong>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=springboot,graphql,nginx,apache&theme=dark" />
-</p>
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,spring,angular,nodejs,express,postgres,mysql,mongodb,redis,elasticsearch,docker,kubernetes,aws,azure,githubactions,jenkins,openai,tensorflow,pytorch,html,css,sass,bootstrap,tailwind,react,vue,springboot,graphql,nginx,apache&theme=dark" />
 </div>
 
 ---
@@ -113,58 +68,7 @@
 
 ---
 
-## 🛠️ TECH STACK
-
-<details>
-<summary><b>🔧 Languages & Frameworks</b></summary>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,spring,angular&theme=dark" />
-</div>
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Search</b></summary>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-</div>
-
-<p align="center"><em>pgvector · semantic search · indexing</em></p>
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Intelligence</b></summary>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
-</div>
-
-- **RAG pipelines**  
-- **Embedding strategies** (1024 / 1536 / 4096)  
-- **Streaming + structured outputs**
-
-</details>
-
-<details>
-<summary><b>🚀 Dev & Infra</b></summary>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws&theme=dark" />
-</div>
-
-</details>
-
----
-
 ## 📊 GITHUB ANALYTICS
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=9D4EDD&text_color=ffffff&icon_color=9D4EDD&border_color=9D4EDD"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru2301&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=9D4EDD&text_color=ffffff&border_color=9D4EDD"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&theme=dark&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD"/>
