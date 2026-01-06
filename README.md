@@ -33,41 +33,6 @@ I'm an indie full-stack developer building production-ready applications with Sp
 
 ---
 
-## ⚙️ WHAT I DO WELL
-
-### ☕ Full-Stack Engineering
-
-<div align="left">
-
-- **Spring Boot** backends with clean domain boundaries  
-- **Angular** frontends built for real UX, not demos  
-- **Auth, workflows, dashboards, REST APIs** - Production-ready solutions
-
-</div>
-
-### 🤖 AI & Code Intelligence
-
-<div align="left">
-
-- **Cursor-like AI IDE** built from scratch  
-- **Code indexing, embeddings, semantic retrieval**  
-- **Deterministic explanations** (confidence + risk)  
-- **Auto-patching & event-based parsing**
-
-</div>
-
-### 🏗️ Systems Thinking
-
-<div align="left">
-
-- **Trustable AI** over "creative" AI  
-- **Observability, correctness, confidence scoring**  
-- **AI that developers can rely on** in production
-
-</div>
-
----
-
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
