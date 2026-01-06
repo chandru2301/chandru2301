@@ -35,9 +35,16 @@ I'm an indie full-stack developer building production-ready applications with Sp
 
 ## 📊 GITHUB ANALYTICS
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&theme=dark&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&theme=dark&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/chandru2301/chandru2301/output/github-contribution-grid-snake-dark.svg" />
+    </td>
+  </tr>
+</table>
 
 ---
 
