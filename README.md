@@ -28,7 +28,7 @@ I'm an indie full-stack developer building production-ready applications with Sp
 ## 💻 TECH STACK & LANGUAGES
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,spring,angular,nodejs,express,postgres,mysql,mongodb,redis,elasticsearch,docker,kubernetes,aws,azure,githubactions,jenkins,openai,tensorflow,pytorch,html,css,sass,bootstrap,tailwind,react,vue,springboot,graphql,nginx,apache&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,html,css,tailwind,hibernate,maven,postgres,redis,rabbitmq,elasticsearch,docker,git,githubactions,openai&theme=dark" />
 </div>
 
 ---
