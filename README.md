@@ -14,9 +14,6 @@ I'm an indie full-stack developer building production-ready applications with Sp
   <a href="https://github.com/chandru2301?tab=stars">
     <img src="https://img.shields.io/github/stars/chandru2301?label=STARS&style=for-the-badge&color=9D4EDD&labelColor=000000">
   </a>
-  <a href="https://github.com/chandru2301">
-    <img src="https://img.shields.io/github/forks/chandru2301?label=FORKS&style=for-the-badge&color=9D4EDD&labelColor=000000">
-  </a>
 </div>
 
 <div align="left">
