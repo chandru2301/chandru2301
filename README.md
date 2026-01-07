@@ -1,6 +1,6 @@
 # 👋 Chandru
 
-### Full-Stack Engineer / AI Systems Builder / Code Intelligence Developer
+### Engineer. System builder, and production-grade AI tooling.
 
 I’m a full-stack engineer focused on building deterministic systems for real-world scale. I work on developer tooling, AI safety gates, and infrastructure-grade software where correctness matters more than convenience.
 
