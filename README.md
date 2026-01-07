@@ -2,7 +2,7 @@
 
 ### Full-Stack Engineer / AI Systems Builder / Code Intelligence Developer
 
-I'm an indie full-stack developer building production-ready applications with Spring Boot and Angular. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I specialize in creating trustable AI systems that are predictable, explainable, and safe to use in production environments.
+I’m a full-stack engineer focused on building deterministic systems for real-world scale. I work on developer tooling, AI safety gates, and infrastructure-grade software where correctness matters more than convenience.
 
 <div align="left">
   <a href="https://github.com/chandru2301?tab=followers">
