@@ -45,16 +45,18 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 
 ## 📊 GITHUB ANALYTICS
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&theme=dark&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/chandru2301/chandru2301/output/github-contribution-grid-snake-dark.svg" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru2301&layout=compact&langs_count=8&bg_color=000000&title_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru2301&theme=dark&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chandru2301/chandru2301/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
