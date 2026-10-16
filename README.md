@@ -28,6 +28,7 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 
 ## 🔭 CURRENTLY BUILDING
 
+- **[Andromedia](https://github.com/chandru2301/andromedia)**: a company brain for engineering teams that searches code, git, Slack, Notion, Jira and Linear in one index and cites its sources.
 - **[Sentra](https://github.com/chandru2301/Sentra-CLI)**: a deterministic policy gate for AI-written code. It scores git diffs for risk in CI and blocks unsafe merges, with optional LLM escalation.
 - **Hybrid search RAG**: BM25 + vector retrieval in Java (Lucene), behind a Spring Boot API.
 
@@ -37,6 +38,7 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
+| [**Andromedia**](https://github.com/chandru2301/andromedia) | "Company brain" for engineering teams: indexes code, git history, Slack, Notion, Jira and Linear, then answers questions with provenance | Java · Spring Boot · Lucene · Electron · Next.js | <img src="https://img.shields.io/github/stars/chandru2301/andromedia?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
 | [**Sentra-CLI**](https://github.com/chandru2301/Sentra-CLI) | Policy engine and risk scoring for PR diffs, with exit codes for CI gating (Jenkins / Docker ready) | Python · YAML rules · LLM | <img src="https://img.shields.io/github/stars/chandru2301/Sentra-CLI?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
 | [**Chat-Application**](https://github.com/chandru2301/Chat-Application) · [UI](https://github.com/chandru2301/Chat-Application-UI) | Real-time rooms and DMs over WebSockets (STOMP), with a Discord-style React client | Java · Spring Boot · React | <img src="https://img.shields.io/github/stars/chandru2301/Chat-Application?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> · [Live demo](https://bepo-chat-verse.netlify.app/chat) |
 | [**AIChatBot**](https://github.com/chandru2301/AIChatBot) | RAG chat: document ingestion, embeddings and retrieval-augmented answers | Java · Spring Boot · LLMs | <img src="https://img.shields.io/github/stars/chandru2301/AIChatBot?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
