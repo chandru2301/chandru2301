@@ -1,6 +1,6 @@
 # 👋 Chandru
 
-### Engineer. System builder, and production-grade AI tooling.
+### Full-stack engineer · System builder · Production-grade AI tooling
 
 I’m a full-stack engineer focused on building deterministic systems for real-world scale. I work on developer tooling, AI safety gates, and infrastructure-grade software where correctness matters more than convenience.
 
@@ -9,7 +9,7 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
     <img src="https://img.shields.io/github/followers/chandru2301?label=FOLLOW&style=for-the-badge&color=9D4EDD&labelColor=000000">
   </a>
   <a href="https://github.com/chandru2301?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-26-blue?style=for-the-badge&color=9D4EDD&labelColor=000000">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandru2301&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=9D4EDD&labelColor=000000">
   </a>
   <a href="https://github.com/chandru2301?tab=stars">
     <img src="https://img.shields.io/github/stars/chandru2301?label=STARS&style=for-the-badge&color=9D4EDD&labelColor=000000">
@@ -19,6 +19,19 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=chandru2301&label=PROFILE+VIEWS&color=9D4EDD&style=flat-square&labelColor=000000">
 </div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Chat-Application**](https://github.com/chandru2301/Chat-Application) · [UI](https://github.com/chandru2301/Chat-Application-UI) | Real-time chat over WebSockets with a Discord-inspired frontend | Java · Spring Boot · React |
+| [**AIChatBot**](https://github.com/chandru2301/AIChatBot) | Retrieval-Augmented Generation (RAG) chat system | Java · Spring Boot · LLMs |
+| [**TestApi_application**](https://github.com/chandru2301/TestApi_application) | Full-stack API testing tool | Angular · Spring Boot |
+| [**ExcelAIHelper**](https://github.com/chandru2301/ExcelAIHelper) | Excel add-in with an integrated AI chat | TypeScript · Office.js · OpenAI |
+| [**arceon**](https://github.com/chandru2301/arceon) · [backend](https://github.com/chandru2301/arceon-backend) | Open-source GitHub analytics platform | React · TypeScript · Java |
+| [**component-remover**](https://github.com/chandru2301/component-remover) | CLI that safely removes Angular components and their references | Node.js |
 
 ---
 
