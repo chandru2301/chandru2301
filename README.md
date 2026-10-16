@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/name.svg" alt="CHANDRU" width="100%" />
+</div>
+
 # 👋 Chandru
 
 ### Full-stack engineer · System builder · Production-grade AI tooling
