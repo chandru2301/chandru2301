@@ -36,15 +36,23 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 
 ## 🚀 FEATURED PROJECTS
 
+### 🧠 AI systems & developer tooling
+
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| [**Andromedia**](https://github.com/chandru2301/andromedia) | "Company brain" for engineering teams: indexes code, git history, Slack, Notion, Jira and Linear, then answers questions with provenance | Java · Spring Boot · Lucene · Electron · Next.js | <img src="https://img.shields.io/github/stars/chandru2301/andromedia?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+| [**Andromedia**](https://github.com/chandru2301/andromedia) · [desktop](https://github.com/chandru2301/andro-UI) · [site](https://github.com/chandru2301/andro-site) | "Company brain" for engineering teams: indexes code, git history, Slack, Notion, Jira and Linear, then answers questions with provenance | Java · Spring Boot · Lucene · Electron · Next.js | <img src="https://img.shields.io/github/stars/chandru2301/andromedia?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
 | [**Sentra-CLI**](https://github.com/chandru2301/Sentra-CLI) | Policy engine and risk scoring for PR diffs, with exit codes for CI gating (Jenkins / Docker ready) | Python · YAML rules · LLM | <img src="https://img.shields.io/github/stars/chandru2301/Sentra-CLI?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
-| [**Chat-Application**](https://github.com/chandru2301/Chat-Application) · [UI](https://github.com/chandru2301/Chat-Application-UI) | Real-time rooms and DMs over WebSockets (STOMP), with a Discord-style React client | Java · Spring Boot · React | <img src="https://img.shields.io/github/stars/chandru2301/Chat-Application?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> · [Live demo](https://bepo-chat-verse.netlify.app/chat) |
+| [**andro-email**](https://github.com/chandru2301/andro-email) | Email triage ranked by persona and priority, with an auditable AI decision trace | Next.js · TypeScript · LLM | <img src="https://img.shields.io/github/stars/chandru2301/andro-email?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
 | [**AIChatBot**](https://github.com/chandru2301/AIChatBot) | RAG chat: document ingestion, embeddings and retrieval-augmented answers | Java · Spring Boot · LLMs | <img src="https://img.shields.io/github/stars/chandru2301/AIChatBot?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+| [**ExcelAIHelper**](https://github.com/chandru2301/ExcelAIHelper) | Excel add-in that lets you chat with an AI about your sheet's data | TypeScript · Office.js · OpenAI | <img src="https://img.shields.io/github/stars/chandru2301/ExcelAIHelper?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+
+### 🌐 Full-stack apps & tools
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| [**Chat-Application**](https://github.com/chandru2301/Chat-Application) · [UI](https://github.com/chandru2301/Chat-Application-UI) | Real-time rooms and DMs over WebSockets (STOMP), with a Discord-style React client | Java · Spring Boot · React | <img src="https://img.shields.io/github/stars/chandru2301/Chat-Application?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> · [Live demo](https://bepo-chat-verse.netlify.app/chat) |
 | [**arceon**](https://github.com/chandru2301/arceon) · [backend](https://github.com/chandru2301/arceon-backend) | GitHub analytics dashboard: repos, languages and contribution insights | React · TypeScript · Java | <img src="https://img.shields.io/github/stars/chandru2301/arceon?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> · [Live demo](https://arceon.netlify.app/) |
 | [**TestApi_application**](https://github.com/chandru2301/TestApi_application) | Postman-style API tester: build requests, inspect responses, save history | Angular · Spring Boot | <img src="https://img.shields.io/github/stars/chandru2301/TestApi_application?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
-| [**ExcelAIHelper**](https://github.com/chandru2301/ExcelAIHelper) | Excel add-in that lets you chat with an AI about your sheet's data | TypeScript · Office.js · OpenAI | <img src="https://img.shields.io/github/stars/chandru2301/ExcelAIHelper?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
 | [**component-remover**](https://github.com/chandru2301/component-remover) | CLI that safely deletes Angular components and cleans up every reference | Node.js | <img src="https://img.shields.io/github/stars/chandru2301/component-remover?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
 
 ---|---|---|
