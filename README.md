@@ -2,11 +2,11 @@
   <img src="./assets/name.svg" alt="CHANDRU" width="100%" />
 </div>
 
-# 👋 Chandru
+### 👋 Hi, I'm Chandru — Full-stack engineer · System builder · Production-grade AI tooling
 
-### Full-stack engineer · System builder · Production-grade AI tooling
+📍 **Chennai, India** · ☕ Java / Spring Boot + AI · 🟢 **Open to Java backend & AI engineering roles**
 
-I’m a full-stack engineer focused on building deterministic systems for real-world scale. I work on developer tooling, AI safety gates, and infrastructure-grade software where correctness matters more than convenience.
+I’m a full-stack engineer focused on building deterministic systems for real-world scale. I work on developer tooling, AI safety gates (see [Sentra](https://github.com/chandru2301/Sentra-CLI)), and RAG systems where correctness matters more than convenience.
 
 <div align="left">
   <a href="https://github.com/chandru2301?tab=followers">
@@ -26,10 +26,26 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 
 ---
 
+## 🔭 CURRENTLY BUILDING
+
+- **[Sentra](https://github.com/chandru2301/Sentra-CLI)**: a deterministic policy gate for AI-written code. It scores git diffs for risk in CI and blocks unsafe merges, with optional LLM escalation.
+- **Hybrid search RAG**: BM25 + vector retrieval in Java (Lucene), behind a Spring Boot API.
+
+---
+
 ## 🚀 FEATURED PROJECTS
 
-| Project | What it is | Stack |
-|---|---|---|
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| [**Sentra-CLI**](https://github.com/chandru2301/Sentra-CLI) | Policy engine and risk scoring for PR diffs, with exit codes for CI gating (Jenkins / Docker ready) | Python · YAML rules · LLM | <img src="https://img.shields.io/github/stars/chandru2301/Sentra-CLI?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+| [**Chat-Application**](https://github.com/chandru2301/Chat-Application) · [UI](https://github.com/chandru2301/Chat-Application-UI) | Real-time rooms and DMs over WebSockets (STOMP), with a Discord-style React client | Java · Spring Boot · React | <img src="https://img.shields.io/github/stars/chandru2301/Chat-Application?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> · [Live demo](https://bepo-chat-verse.netlify.app/chat) |
+| [**AIChatBot**](https://github.com/chandru2301/AIChatBot) | RAG chat: document ingestion, embeddings and retrieval-augmented answers | Java · Spring Boot · LLMs | <img src="https://img.shields.io/github/stars/chandru2301/AIChatBot?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+| [**arceon**](https://github.com/chandru2301/arceon) · [backend](https://github.com/chandru2301/arceon-backend) | GitHub analytics dashboard: repos, languages and contribution insights | React · TypeScript · Java | <img src="https://img.shields.io/github/stars/chandru2301/arceon?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> · [Live demo](https://arceon.netlify.app/) |
+| [**TestApi_application**](https://github.com/chandru2301/TestApi_application) | Postman-style API tester: build requests, inspect responses, save history | Angular · Spring Boot | <img src="https://img.shields.io/github/stars/chandru2301/TestApi_application?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+| [**ExcelAIHelper**](https://github.com/chandru2301/ExcelAIHelper) | Excel add-in that lets you chat with an AI about your sheet's data | TypeScript · Office.js · OpenAI | <img src="https://img.shields.io/github/stars/chandru2301/ExcelAIHelper?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+| [**component-remover**](https://github.com/chandru2301/component-remover) | CLI that safely deletes Angular components and cleans up every reference | Node.js | <img src="https://img.shields.io/github/stars/chandru2301/component-remover?style=flat-square&color=9D4EDD&labelColor=000000&label=★" /> |
+
+---|---|---|
 | [**Chat-Application**](https://github.com/chandru2301/Chat-Application) · [UI](https://github.com/chandru2301/Chat-Application-UI) | Real-time chat over WebSockets with a Discord-inspired frontend | Java · Spring Boot · React |
 | [**AIChatBot**](https://github.com/chandru2301/AIChatBot) | Retrieval-Augmented Generation (RAG) chat system | Java · Spring Boot · LLMs |
 | [**TestApi_application**](https://github.com/chandru2301/TestApi_application) | Full-stack API testing tool | Angular · Spring Boot |
@@ -42,7 +58,7 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 ## 💻 TECH STACK & LANGUAGES
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,html,css,tailwind,hibernate,maven,postgres,redis,rabbitmq,elasticsearch,docker,git,githubactions,openai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,angular,react,html,css,tailwind,hibernate,maven,postgres,redis,rabbitmq,elasticsearch,docker,git,githubactions,openai&theme=dark" />
 </div>
 
 ---
@@ -50,7 +66,6 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chandru2301&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru2301&layout=compact&langs_count=8&bg_color=000000&title_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD" />
 </div>
 
